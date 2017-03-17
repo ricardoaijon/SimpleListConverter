@@ -1,0 +1,9 @@
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\UnitTestProjectCasteableList\bin\Debug\UnitTestProjectCasteableList.dll
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\UnitTestProjectCasteableList\bin\Debug\UnitTestProjectCasteableList.pdb
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\UnitTestProjectCasteableList\bin\Debug\LibraryCasteableIList.dll
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\UnitTestProjectCasteableList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\UnitTestProjectCasteableList\bin\Debug\LibraryCasteableIList.pdb
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\UnitTestProjectCasteableList\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\UnitTestProjectCasteableList\obj\Debug\UnitTestProjectCasteableList.csprojResolveAssemblyReference.cache
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\UnitTestProjectCasteableList\obj\Debug\UnitTestProjectCasteableList.dll
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\UnitTestProjectCasteableList\obj\Debug\UnitTestProjectCasteableList.pdb

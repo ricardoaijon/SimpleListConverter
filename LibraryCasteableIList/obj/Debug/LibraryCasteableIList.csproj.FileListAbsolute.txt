@@ -1,0 +1,4 @@
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\LibraryCasteableIList\bin\Debug\LibraryCasteableIList.dll
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\LibraryCasteableIList\bin\Debug\LibraryCasteableIList.pdb
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\LibraryCasteableIList\obj\Debug\LibraryCasteableIList.dll
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\LibraryCasteableIList\obj\Debug\LibraryCasteableIList.pdb

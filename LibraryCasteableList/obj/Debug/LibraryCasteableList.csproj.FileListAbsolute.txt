@@ -1,0 +1,5 @@
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\LibraryCasteableList\bin\Debug\LibraryCasteableList.dll
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\LibraryCasteableList\bin\Debug\LibraryCasteableList.pdb
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\LibraryCasteableList\obj\Debug\LibraryCasteableList.csprojResolveAssemblyReference.cache
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\LibraryCasteableList\obj\Debug\LibraryCasteableList.dll
+C:\Users\RAijon\documents\visual studio 2015\Projects\ConsoleApplicationCasteableList\LibraryCasteableList\obj\Debug\LibraryCasteableList.pdb
